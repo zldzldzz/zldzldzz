@@ -1,4 +1,4 @@
-## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zldzldzz&layout=compact)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=zldzldzz;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **zldzldzz/zldzldzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
