@@ -1,44 +1,49 @@
-<!-- 깃허브 프로필 README.md 예제 -->
+<!-- GitHub 프로필 README.md: Ralph Wiggum 스타일 -->
 
-<h1 align="center">👋 Hello! I'm a Anyang University Student</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Enthusiastic%20Learner-Blue?style=flat-square&logo=github&logoColor=white" alt="Learner Badge"/>
-  <img src="https://img.shields.io/badge/Developer%20in%20Progress-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Developer Badge"/>
-</p>
+<h1 align="center">🧠 I glue my code to my brain!</h1>
+<h3 align="center">👶 I'm a back-end baby dev from Anyang University</h3>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zldzldz&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zldzldzz&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zldzldzz&layout=compact&theme=blueberry" alt="Most Used Languages" />
-</div>
+### 😄 About Me
+
+🎓 I'm studying at **Anyang University**. I like computers because they make bleep bloop sounds.  
+💻 I’m learning **Java**, **SQL**, and how to make the internet work from behind the scenes.  
+🌱 I recently discovered **Spring Boot**, and I think it's like a magic box with controllers.
+
+Sometimes I debug by turning it off and on again.  
+Also, I think semicolons are spicy commas. 🌶️
 
 ---
 
-<h2 align="center">💻 My Skills & Tools</h2>
+### 🧸 Tech Toys I Play With
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+- 💻 Java / Spring Boot / IntelliJ IDEA
+- 🗄️ SQL / MySQL (I think it’s My-School sometimes)
+- 📡 REST API (but no nap time 😢)
+- 📦 Git / GitHub / “Push” feels like posting a drawing on the fridge
 
-<h2 align="center">🌱 Currently Learning</h2>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+### 📊 My GitHub Crayons
 
-<h2 align="center">🌐 Connect with Me</h2>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zldzldzz&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <a href="mailto:wjl1007@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+---
+
+### 🎯 My Big Goal
+
+> I want to build big strong computer stuff  
+> that doesn’t break when you poke it!  
+> – Ralph the Junior Backend Builder
+
+---
+
+### 📬 Contact Me (But nicely)
+
+- ✉️ Email: [wjl100735@gmail.com](mailto:wjl100735@gmail.com)
+- 💼 Blog: [My Tistory Playground](https://blogger0456.tistory.com)
+
+---
+
+> _“I’m helping!” – Ralph Wiggum_
