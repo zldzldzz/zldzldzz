@@ -1,11 +1,12 @@
 <!-- GitHub 프로필 README.md: Ralph Wiggum 스타일 + 엉뚱한 한글버전 토글 -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zldzldzz&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/zldzldzz"
-  width="100%"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/673440973112302533/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 <h1 align="center">🧠 I glue my code to my brain!</h1>
 <h3 align="center">👶 I'm a back-end baby dev from Anyang University</h3>
