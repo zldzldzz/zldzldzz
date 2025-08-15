@@ -15,15 +15,23 @@
 - 함께 성장하는 환경을 좋아합니다.
 
 ---
+### ACTIVITY
+- 교내 IT 동아리 [2024.03. ~ 2024.12.]
+- NETWORK LAB [2024.11 ~ ING]
+-  국토 교통 데이터 활용 경진대회<a href='https://github.com/Jeonse-ive'>Jeonse-ive</a> [2025.04 ~ 2025.06]
+- KaKao X Goorm <a href='https://9oormthon.university'>구름톤 유니브</a> 4기
+- KaKao X Goorm 구름톤 유니브 경인 X 경기북부 해커톤(9ITHON) <a href='https://github.com/9ITHON/1-TheSynthetics-EmoBin-BE'>EmBin </a>[2025.06. ~ 2025.07.]
+- 안양대학교 축제 서비스 <a href='https://github.com/Passtival'> Passtival</a> 제작 [2025.08. ~ ING]
+---
 
-### 🔨 Development Stack
-- 💻 Java / Spring Boot / IntelliJ IDEA
-- 🗄️ SQL / MySQL 
-- 📦 Git / GitHub 
+### Development Stack
+- Java / Spring Boot / IntelliJ IDEA
+-  SQL / MySQL 
+-  Git / GitHub 
 
 ---
 
-### 📊 Contact Me
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zldzldzz)](https://solved.ac/pzs20019)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zldzldzz&show_icons=true&theme=tokyonight)
 
