@@ -16,6 +16,7 @@
 
 ---
 ### ACTIVITY
+- <a href='https://www.hultprize.org/'>Hult Prize</a> Korea UN 후원 글로벌 사회혁신 창업 대회 `디렉터` [2024.09 ~ 2025.02]
 - 교내 IT 동아리 [2024.03. ~ 2024.12.]
 - NETWORK LAB [2024.11 ~ ING]
 -  국토 교통 데이터 활용 경진대회<a href='https://github.com/Jeonse-ive'>Jeonse-ive</a> [2025.04 ~ 2025.06]
