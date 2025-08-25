@@ -32,7 +32,7 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zldzldzz)](https://solved.ac/pzs20019)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zldzldzz)](https://solved.ac/zldzldzz)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zldzldzz&show_icons=true&theme=tokyonight)
 
