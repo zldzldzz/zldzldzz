@@ -4,6 +4,7 @@
    width="100%"
 />
 </a>
+
 ---
 
 ### 😄 About Me
@@ -23,7 +24,7 @@
 | KaKao X Goorm <a href='https://9oormthon.university'>구름톤 유니브 | 2025.3 ~ 2025.9 | 4기 BE 교내 운영진 수료 |
 ---
 ### 📚 ACTIVITY
--  국토 교통 데이터 활용 경진대회<a href='https://github.com/Jeonse-ive'>Jeonse-ive</a> [2025.04 ~ 2025.06]
+-  국토 교통 데이터 활용 경진대회 <a href='https://github.com/Jeonse-ive'>Jeonse-ive</a> [2025.04 ~ 2025.06]
 - KaKao X Goorm 구름톤 유니브 경인 X 경기북부 해커톤(9ITHON) <a href='https://github.com/9ITHON/1-TheSynthetics-EmoBin-BE'>EmBin </a>[2025.06. ~ 2025.07.]
 - 안양대학교 축제 서비스 <a href='https://github.com/Passtival'> Passtival</a> 제작 [2025.08. ~ 2025.9]
 ---
