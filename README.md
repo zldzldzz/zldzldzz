@@ -1,11 +1,9 @@
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/673440973112302533/draw"
-          width="100%"
-        alt="gitanimals"
-      />
-    </a>
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zldzldzz&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/zldzldzz"
+   width="100%"
+/>
+</a>
 ---
 
 ### 😄 About Me
